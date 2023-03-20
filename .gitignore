@@ -1,0 +1,10 @@
+.vs
+
+!.gitignore
+
+
+!*.cs
+!*.py
+!*.txt
+!*.cpp
+!*.c
