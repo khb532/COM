@@ -1,0 +1,17 @@
+*
+!.gitignore
+
+
+
+!male_female
+!aiLIB
+
+
+
+!*.cs
+!*.py
+!*.txt
+!*.cpp
+!*.c
+!*.pptx
+!*.pdf
